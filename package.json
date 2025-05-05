@@ -67,7 +67,7 @@
     "@types/next": "^8.0.7",
     "@types/node": "^22.14.1",
     "@types/pg": "^8.11.13",
-    "@types/postcss-load-config": "^2.0.1",
+    "@types/postcss-load-config": "^3.0.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.21",

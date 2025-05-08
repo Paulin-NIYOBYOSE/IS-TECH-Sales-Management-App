@@ -162,11 +162,7 @@ export function AddProductForm() {
                     </FormControl>
                     <SelectContent>
                       <SelectItem value="electronics">Electronics</SelectItem>
-                      <SelectItem value="clothing">Clothing</SelectItem>
-                      <SelectItem value="furniture">Furniture</SelectItem>
-                      <SelectItem value="office">Office Supplies</SelectItem>
-                      <SelectItem value="food">Food & Beverages</SelectItem>
-                      <SelectItem value="other">Other</SelectItem>
+                                       <SelectItem value="other">Other</SelectItem>
                     </SelectContent>
                   </Select>
                   <FormMessage />
